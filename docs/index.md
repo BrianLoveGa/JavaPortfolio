@@ -15,7 +15,7 @@ Georgia Perimeter College,  *AS in Business Administration*,  Dunwoody, GA
 
 
 - Credly Acclaim [FSD](https://www.youracclaim.com/badges/9c5d9183-9052-4d40-bf4e-a278fe072565/linked_in_profile), *Certified Full-Stack Developer*, Talent Path online
-- General Assembly [GA](),  *Certificate in Software Engineering Immersion*,  online
+- General Assembly [GA](https://github.com/BrianLoveGa/portfolio-improvements/blob/master/portfolio/public/GA%20CERT%20.png?raw=true),  *Certificate in Software Engineering Immersion*,  online
 - Free Code Camp [Web](https://www.freecodecamp.org/certification/fcc834d7277-a991-4083-bda5-6372b69a9f1e/responsive-web-design) , [JS](https://www.freecodecamp.org/certification/fcc834d7277-a991-4083-bda5-6372b69a9f1e/javascript-algorithms-and-data-structures), *Certificates: Responsive Web Design & JavaScript Algorithms and Data Structures *, online
 - EdEx.org [Java](https://courses.edx.org/certificates/db55972a3dc0475baaccb11f82c02fa2), * Certificate in DEV277x: Object Oriented Programming in Java *, online 
 
@@ -23,7 +23,7 @@ Georgia Perimeter College,  *AS in Business Administration*,  Dunwoody, GA
 
 ### Work Experience
 
-__IT Experience__ : 1 Year
+__IT Experience__: 1 Year
 
 __Overall Experience__: 20 Years
 
@@ -42,24 +42,24 @@ __Industries__
 - Gaming (X-box)
 - Football
 - Disc Golf
-- Wheel of Fortune & Jeporady
+- Wheel of Fortune & Jeopardy
 
 -----------------------------------
 
 ### Contact Information 
 For all information, please contact Kiersten Kindred at Talent Path.
 
-- __Phone Number__ : 713-547-4495 
-- __Email Address__ : [kkindred@talentpath.com](mailto:kkindred@talentpath.com)
-- __LinkedIn Account__ : [My LinkedIn Link ](https://www.linkedin.com/in/brianloveless321bl/)
-- __GitHub Account__ : [My GitHub Link ](https://github.com/BrianLoveGa)
+- __Phone Number__: 713-547-4495 
+- __Email Address__: [kkindred@talentpath.com](mailto:kkindred@talentpath.com)
+- __LinkedIn Account__: [My LinkedIn Link ](https://www.linkedin.com/in/brianloveless321bl/)
+- __GitHub Account__: [My GitHub Link ](https://github.com/BrianLoveGa)
 
 -------------------------------------
 
 ## Skills
 
 ### Software Engineering Skills
-    Git | Github 
+    Git | GitHub 
     HTML
     CSS
     Agile Environment| Scrum 
@@ -71,7 +71,7 @@ For all information, please contact Kiersten Kindred at Talent Path.
     MEHN Full Stack Architecture (MongoDB, Express, HandleBars, Node) Stack
     MEAN Full Stack Architecture (MongoDB, Express, Angular, Node) Stack
     Java /Spring Boot
-    Pythn / Django
+    Python / Django
     MySQL/PostgreSQL
 
 
@@ -92,11 +92,11 @@ For all information, please contact Kiersten Kindred at Talent Path.
 
 #### Code Compare 
 
-Independent educational SPA intended to showcase the similarities and differences of JavaScript, Python, & Java for a tip calculator, pig latin translator, a 'rock paper scissors lizard spock' game and more. 
+Independent educational SPA intended to showcase the similarities and differences of JavaScript, Python, & Java for a tip calculator, Pig-Latin translator, a 'rock paper scissors lizard Spock' game and more. 
 
 ![code compare header](https://github.com/BrianLoveGa/JavaPortfolio/blob/main/public/images/CCtitleCard.PNG?raw=true)
 
-    Languages : Javascript, HTML, CSS  
+    Languages: JavaScript, HTML, CSS  
     featuring snippets in: Java, JavaScript, and Python
     
 Project Link: [Capstone Repository](https://github.com/BrianLoveGa/talentPathCapstone)
@@ -109,7 +109,7 @@ Independent full-stack CRUD application for people to connect as virtual pen pal
 
 ![Pen e Pals header](https://github.com/BrianLoveGa/JavaPortfolio/blob/main/public/images/penpalslogo.png?raw=true)
 
-    Languages: AngularJS, Springboot/Java, SQLite  
+    Languages: AngularJS, Spring Boot/Java, SQLite  
     
 Project Link: [Client Repository](https://github.com/BrianLoveGa/frontend-Pen-E-Pals), [Server Repository](https://github.com/BrianLoveGa/penEpals)
 
@@ -120,28 +120,28 @@ Group ReactJS application with camera and background removal components to take 
 ![Headshots](https://github.com/BrianLoveGa/JavaPortfolio/blob/main/public/images/HeadShotApp.png?raw=true)
 
     Languages: ReactJS
-    Roles: Styling , some Instruction Slides and How To Video
+    Roles: Styling, some Instruction Slides and How-to Video
     
-Project Link:[Headshots Application](https://github.com/brianlovega/headShotsSiteforTP)
+Project Link: [Headshots Application](https://github.com/brianlovega/headShotsSiteforTP)
 
 #### Amazin'  
 Full-stack application replicating product pages of a popular shopping website. 
 
 ![Amazin](https://github.com/BrianLoveGa/JavaPortfolio/blob/main/public/images/star5.JPG?raw=true)
 
-    Languages: ReactJS, Springboot/Java, Postgres
+    Languages: ReactJS, Spring Boot/Java, Postgres
     Roles: header, footer, styling, dynamic stars component, star chart component   
     
-Project Link:[Client Repo](https://github.com/Quaran-Team/client-Amazin), [Server Repo](https://github.com/Quaran-Team/server-Amazin)
+Project Link: [Client Repo](https://github.com/Quaran-Team/client-Amazin), [Server Repo](https://github.com/Quaran-Team/server-Amazin)
 
-Video Overview: [PlayList Videos](https://www.youtube.com/playlist?list=PLkllGfnqCkYWV6VHo8DNhgAlEBOPDykIY)
+Video Overview: [Play-List Videos](https://www.youtube.com/playlist?list=PLkllGfnqCkYWV6VHo8DNhgAlEBOPDykIY)
 
 #### Earth BNB 
 Full-stack application replicating rental listings pages of a popular bed and breakfast website.
 
 ![EarthBNB](https://github.com/BrianLoveGa/JavaPortfolio/blob/main/public/images/tdd.JPG?raw=true)
 
-    Languages: AngularJS, Springboot/Java, MySQL
+    Languages: AngularJS, Spring Boot/Java, MySQL
     Roles: Listing images, modal gallery, things to do nearby 
     
 Project Link: [Client Repo](https://github.com/BrianLoveGa/client-EarthBnB), [Server Repo](https://github.com/BrianLoveGa/server-EarthBnB)
