@@ -8,18 +8,22 @@
 
 -----------------------------------
 ### Education
-- Georgia State University, *BA Managerial Science*,  Atlanta, GA   
-- Georgia Perimeter College,  *AS in Business Administration*,  Dunwoody, GA 
+Georgia State University, *BA Managerial Science*,  Atlanta, GA   
+Georgia Perimeter College,  *AS in Business Administration*,  Dunwoody, GA 
 
-- General Assembly,  *Certificate in Software Engineering Immersion*,  online
-- Free Code Camp, * *, online
-- EdEx.org, *  *, online 
+
+
+- Credly Acclaim [FSD](https://www.youracclaim.com/badges/9c5d9183-9052-4d40-bf4e-a278fe072565/linked_in_profile), *Certified Full-Stack Developer*, Talent Path online
+- General Assembly [GA](),  *Certificate in Software Engineering Immersion*,  online
+- Free Code Camp [Web](https://www.freecodecamp.org/certification/fcc834d7277-a991-4083-bda5-6372b69a9f1e/responsive-web-design) , [JS](https://www.freecodecamp.org/certification/fcc834d7277-a991-4083-bda5-6372b69a9f1e/javascript-algorithms-and-data-structures), *Certificates: Responsive Web Design & JavaScript Algorithms and Data Structures *, online
+- EdEx.org [Java](https://courses.edx.org/certificates/db55972a3dc0475baaccb11f82c02fa2), * Certificate in DEV277x: Object Oriented Programming in Java *, online 
 
 -----------------------------------
 
 ### Work Experience
 
 __IT Experience__ : 1 Year
+
 __Overall Experience__: 20 Years
 
 __Industries__
@@ -78,7 +82,7 @@ For all information, please contact Kiersten Kindred at Talent Path.
     Teamwork & Collaboration
     Technical Written & Verbal Communication Skills
     Microsoft Office Suite
-    Comfotable on Windows / Mac / or Linux
+    Comfortable on Windows / Mac / or Linux machine
     Integrated Testing
     
 -------------------------------------
@@ -87,25 +91,28 @@ For all information, please contact Kiersten Kindred at Talent Path.
 
 #### Code Compare 
 
-blah blah blah about it
-![code compare site pic](public/images/donationimage.PNG)
+Independent educational SPA intended to showcase the similarities and differences of JavaScript, Python, & Java for a tip calculator, pig latin translator, a 'rock paper scissors lizard spock' game and more. 
+![code compare header](public/images/CCtitleCard.png)
 
-    Languages : Javascript,  
+    Languages : Javascript, HTML, CSS  
+    featuring snippets in: Java, JavaScript, and Python
     
-Project Link: [Capstone Repository](https://github.com/)
+Project Link: [Capstone Repository](https://github.com/BrianLoveGa/talentPathCapstone)
+Deployed Site Link: [live site](https://brianlovega.github.io/talentPathCapstone/)
+![code compare rock paper scissors lizard spock](public/images/CCrpsls.PNG)
 
 #### Pen - E - Pals 
-Independent full-stack CRUD application for displaying speakers and scheduling speaking events.
-![speaker](public/images/speakerimage.PNG)
+Independent full-stack CRUD application for people to connect as virtual pen pals.
+![Pen e Pals header](public/images/penpalslogo.png)
 
-    Languages: AngularJS, Springboot/Java, SQL
+    Languages: AngularJS, Springboot/Java, SQLite  
     
-Project Link: [Client Repository](https://github.com/), [Server Repository](https://github.com)
+Project Link: [Client Repository](https://github.com/BrianLoveGa/frontend-Pen-E-Pals), [Server Repository](https://github.com/BrianLoveGa/penEpals)
 
 
 #### Headshots 
 Group ReactJS application with camera and background removal components to take professional pictures.
-![Headshots](public/images/headshotsimage.PNG)
+![Headshots](public/images/HeadShotsApp.png)
 
     Languages: ReactJS
     Roles: Styling , some Instruction Slides and How To Video
@@ -113,34 +120,41 @@ Group ReactJS application with camera and background removal components to take 
 Project Link:[Headshots Application](https://github.com/brianlovega/headShotsSiteforTP)
 
 #### Amazin'  
-Full-stack application replicating popular shopping websites. 
-![Amazin](public/images/amazinimage.PNG)
+Full-stack application replicating product pages of a popular shopping website. 
+![Amazin](public/images/star5.JPG)
 
     Languages: ReactJS, Springboot/Java, Postgres
-    Roles:  
+    Roles: header, footer, styling, dynamic stars component, star chart component   
     
-Project Link:[Client Repo](https://github.com/mrterranova/client-Amazin), [Server Repo](https://github.com/mrterranova/server-Amazin)
+Project Link:[Client Repo](https://github.com/Quaran-Team/client-Amazin), [Server Repo](https://github.com/Quaran-Team/server-Amazin)
+
+Video Overview: [PlayList Videos](https://www.youtube.com/playlist?list=PLkllGfnqCkYWV6VHo8DNhgAlEBOPDykIY)
 
 #### Earth BNB 
-Full-stack application replicating popular bed and breakfast websites.
-![EarthBNB](public/images/Earthbnbimage.PNG)
+Full-stack application replicating rental listings pages of a popular bed and breakfast website.
+![EarthBNB](public/images/tdd.JPG)
 
     Languages: AngularJS, Springboot/Java, MySQL
-    Roles:  
+    Roles: Listing images, modal gallery, things to do nearby 
     
-Project Link: [Client Repo](https://github.com/mrterranova/client-EarthBnB), [Server Repo](https://github.com/mrterranova/server-EarthBnB)
+Project Link: [Client Repo](https://github.com/BrianLoveGa/client-EarthBnB), [Server Repo](https://github.com/BrianLoveGa/server-EarthBnB)
+
+Video Overview: [YouTube Vid](https://www.youtube.com/watch?v=nQksifO4T6M&t)
+
 
 #### Learning Exercises with Java Projects 
 Java building exercises demonstrating knowledge base in Java testing and application production. 
 
 Projects and Links: 
-* [Mini Arcade Repository](https://github.com/mrterranova/maven_simple-arcade) | [Travis Build]()
-* [Streams and Lambdas Repository](https://github.com/mrterranova/maven_streams-and-lambdas) | [Travis Build](https://travis-ci.com/github/mrterranova/maven_streams-and-lambdas)
-* [Bin and Die Repository](https://github.com/mrterranova/Maven.BinAndDieSimulation) | [Travis Build](https://travis-ci.com/github/mrterranova/Maven.BinAndDieSimulation)
-* [Learner Lab Repository](https://github.com/mrterranova/maven_learnerlab) | [Travis Build](https://travis-ci.com/github/mrterranova/maven_learnerlab)
-* [Exceptions Exercises Repository](https://github.com/mrterranova/maven.exceptional-phone-number) | [Travis Build](https://travis-ci.com/github/mrterranova/maven.exceptional-phone-number)
-* [Java Core Foundations 2](https://github.com/mrterranova/maven.numbers-triangles-tables) | [Travis Build](https://travis-ci.com/github/mrterranova/maven.numbers-triangles-tables)
-* [Java Core Foundations 1](https://github.com/mrterranova/maven.java-fundamentals) | [Travis Build](https://travis-ci.com/github/mrterranova/maven.java-fundamentals)
+* [Mini Arcade Repository](https://github.com/BrianLoveGa/maven_simple-arcade) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven_simple-arcade)
+* [Streams and Lambdas Repository](https://github.com/BrianLoveGa/maven_streams-and-lambdas) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven_streams-and-lambdas)
+* [Bin and Die Repository](https://github.com/BrianLoveGa/Maven.BinAndDieSimulation) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/Maven.BinAndDieSimulation)
+* [Learner Lab Repository](https://github.com/BrianLoveGa/maven_learnerlab) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven_learnerlab)
+* [Exceptions Exercises Repository](https://github.com/BrianLoveGa/maven.exceptional-phone-number) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven.exceptional-phone-number)
+* [Java Core Foundations 2](https://github.com/BrianLoveGa/maven.numbers-triangles-tables) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven.numbers-triangles-tables)
+
 
 
 -----------------------------------
+
+Visit https://www.BrianLoveless.com to find out more!
