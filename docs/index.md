@@ -2,7 +2,8 @@
 ----------------------------------- 
 ## About Me
 
-![headshot](https://github.com/BrianLoveGa/JavaPortfolio/blob/main/public/images/fc.jpg?raw=true)
+<img style="height: 100px; width: auto;">
+![headshot](https://github.com/BrianLoveGa/JavaPortfolio/blob/main/public/images/fc.jpg?raw=true)</img>
 
 <p style="font-weight: 500; font-Size: 18px;"><i>Full-stack web developer in both Java and MERN stacks whose educational background is in business and managerial sciences. I am passionate about problem solving and working puzzles out with creative solutions.</i></p>
 
