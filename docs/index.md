@@ -2,7 +2,7 @@
 ----------------------------------- 
 ## About Me
 
-![headshot](public/images/fc.jpg)
+![headshot](https://github.com/BrianLoveGa/JavaPortfolio/blob/main/public/images/fc.jpg?raw=true)
 
 <p style="font-weight: 500; font-Size: 18px;"><i>Full-stack web developer in both Java and MERN stacks whose educational background is in business and managerial sciences. I am passionate about problem solving and working puzzles out with creative solutions.</i></p>
 
@@ -92,18 +92,21 @@ For all information, please contact Kiersten Kindred at Talent Path.
 #### Code Compare 
 
 Independent educational SPA intended to showcase the similarities and differences of JavaScript, Python, & Java for a tip calculator, pig latin translator, a 'rock paper scissors lizard spock' game and more. 
-![code compare header](public/images/CCtitleCard.png)
+
+![code compare header](https://github.com/BrianLoveGa/JavaPortfolio/blob/main/public/images/CCtitleCard.PNG?raw=true)
 
     Languages : Javascript, HTML, CSS  
     featuring snippets in: Java, JavaScript, and Python
     
 Project Link: [Capstone Repository](https://github.com/BrianLoveGa/talentPathCapstone)
 Deployed Site Link: [live site](https://brianlovega.github.io/talentPathCapstone/)
-![code compare rock paper scissors lizard spock](public/images/CCrpsls.PNG)
+
+![code compare rock paper scissors lizard spock](https://github.com/BrianLoveGa/JavaPortfolio/blob/main/public/images/CCrpsls.PNG?raw=true)
 
 #### Pen - E - Pals 
 Independent full-stack CRUD application for people to connect as virtual pen pals.
-![Pen e Pals header](public/images/penpalslogo.png)
+
+![Pen e Pals header](https://github.com/BrianLoveGa/JavaPortfolio/blob/main/public/images/penpalslogo.png?raw=true)
 
     Languages: AngularJS, Springboot/Java, SQLite  
     
@@ -112,7 +115,8 @@ Project Link: [Client Repository](https://github.com/BrianLoveGa/frontend-Pen-E-
 
 #### Headshots 
 Group ReactJS application with camera and background removal components to take professional pictures.
-![Headshots](public/images/HeadShotsApp.png)
+
+![Headshots](https://github.com/BrianLoveGa/JavaPortfolio/blob/main/public/images/HeadShotApp.png?raw=true)
 
     Languages: ReactJS
     Roles: Styling , some Instruction Slides and How To Video
@@ -121,7 +125,8 @@ Project Link:[Headshots Application](https://github.com/brianlovega/headShotsSit
 
 #### Amazin'  
 Full-stack application replicating product pages of a popular shopping website. 
-![Amazin](public/images/star5.JPG)
+
+![Amazin](https://github.com/BrianLoveGa/JavaPortfolio/blob/main/public/images/star5.JPG?raw=true)
 
     Languages: ReactJS, Springboot/Java, Postgres
     Roles: header, footer, styling, dynamic stars component, star chart component   
@@ -132,7 +137,8 @@ Video Overview: [PlayList Videos](https://www.youtube.com/playlist?list=PLkllGfn
 
 #### Earth BNB 
 Full-stack application replicating rental listings pages of a popular bed and breakfast website.
-![EarthBNB](public/images/tdd.JPG)
+
+![EarthBNB](https://github.com/BrianLoveGa/JavaPortfolio/blob/main/public/images/tdd.JPG?raw=true)
 
     Languages: AngularJS, Springboot/Java, MySQL
     Roles: Listing images, modal gallery, things to do nearby 
@@ -148,7 +154,7 @@ Java building exercises demonstrating knowledge base in Java testing and applica
 Projects and Links: 
 * [Mini Arcade Repository](https://github.com/BrianLoveGa/maven_simple-arcade) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven_simple-arcade)
 * [Streams and Lambdas Repository](https://github.com/BrianLoveGa/maven_streams-and-lambdas) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven_streams-and-lambdas)
-* [Bin and Die Repository](https://github.com/BrianLoveGa/Maven.BinAndDieSimulation) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/Maven.BinAndDieSimulation)
+* [Bin and Die Repository](https://github.com/BrianLoveGa/Maven.diceandbin) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/Maven.diceandbin)
 * [Learner Lab Repository](https://github.com/BrianLoveGa/maven_learnerlab) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven_learnerlab)
 * [Exceptions Exercises Repository](https://github.com/BrianLoveGa/maven.exceptional-phone-number) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven.exceptional-phone-number)
 * [Java Core Foundations 2](https://github.com/BrianLoveGa/maven.numbers-triangles-tables) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven.numbers-triangles-tables)
@@ -157,4 +163,4 @@ Projects and Links:
 
 -----------------------------------
 
-Visit https://www.BrianLoveless.com to find out more!
+Visit [Brian Loveless .com](https://www.BrianLoveless.com) to find out more!
