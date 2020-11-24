@@ -15,8 +15,8 @@ Georgia Perimeter College,  *AS in Business Administration*,  Dunwoody, GA
 
 - Credly Acclaim [FSD](https://www.youracclaim.com/badges/9c5d9183-9052-4d40-bf4e-a278fe072565/linked_in_profile), *Certified Full-Stack Developer*, Talent Path online
 - General Assembly [GA](https://github.com/BrianLoveGa/portfolio-improvements/blob/master/portfolio/public/GA%20CERT%20.png?raw=true),  *Certificate in Software Engineering Immersion*,  online
-- Free Code Camp [Web](https://www.freecodecamp.org/certification/fcc834d7277-a991-4083-bda5-6372b69a9f1e/responsive-web-design) , [JS](https://www.freecodecamp.org/certification/fcc834d7277-a991-4083-bda5-6372b69a9f1e/javascript-algorithms-and-data-structures), *Certificates: Responsive Web Design & JavaScript Algorithms and Data Structures *, online
-- EdEx.org [Java](https://courses.edx.org/certificates/db55972a3dc0475baaccb11f82c02fa2), * Certificate in DEV277x: Object Oriented Programming in Java *, online 
+- Free Code Camp [Web](https://www.freecodecamp.org/certification/fcc834d7277-a991-4083-bda5-6372b69a9f1e/responsive-web-design) , [JS](https://www.freecodecamp.org/certification/fcc834d7277-a991-4083-bda5-6372b69a9f1e/javascript-algorithms-and-data-structures), *Certificates: Responsive Web Design & JavaScript Algorithms and Data Structures*, online
+- EdEx.org [Java](https://courses.edx.org/certificates/db55972a3dc0475baaccb11f82c02fa2), *Certificate in DEV277x: Object Oriented Programming in Java*, online 
 
 -----------------------------------
 
@@ -91,7 +91,7 @@ For all information, please contact Kiersten Kindred at Talent Path.
 
 #### Code Compare 
 
-Independent educational SPA intended to showcase the similarities and differences of JavaScript, Python, & Java for a tip calculator, Pig-Latin translator, a 'rock paper scissors lizard Spock' game and more. 
+Independent educational SPA intended to showcase the similarities and differences of JavaScript, Python, & Java for a tip calculator, Pig-Latin translator, a 'rock paper scissors lizard Spock' game and more. Including [how-to video series](https://www.youtube.com/playlist?list=PLkllGfnqCkYWynrqxhlAxwSw-ArTPjyns)
 
 ![code compare header](https://github.com/BrianLoveGa/JavaPortfolio/blob/main/public/images/CCtitleCard.PNG?raw=true)
 
@@ -129,7 +129,8 @@ Full-stack application replicating product pages of a popular shopping website.
 ![Amazin](https://github.com/BrianLoveGa/JavaPortfolio/blob/main/public/images/star5.JPG?raw=true)
 
     Languages: ReactJS, Spring Boot/Java, Postgres
-    Roles: header, footer, styling, dynamic stars component, star chart component   
+    Roles: header, footer, styling, responsiveness
+    dynamic stars component, star chart component   
     
 Project Link: [Client Repo](https://github.com/Quaran-Team/client-Amazin), [Server Repo](https://github.com/Quaran-Team/server-Amazin)
 
