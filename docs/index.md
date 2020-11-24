@@ -14,9 +14,13 @@ Georgia Perimeter College,  *AS in Business Administration*,  Dunwoody, GA
 
 
 - Credly Acclaim [FSD](https://www.youracclaim.com/badges/9c5d9183-9052-4d40-bf4e-a278fe072565/linked_in_profile), *Certified Full-Stack Developer*, Talent Path online
-- General Assembly [GA](https://github.com/BrianLoveGa/portfolio-improvements/blob/master/portfolio/public/GA%20CERT%20.png?raw=true),  *Certificate in Software Engineering Immersion*,  online
-- Free Code Camp [Web](https://www.freecodecamp.org/certification/fcc834d7277-a991-4083-bda5-6372b69a9f1e/responsive-web-design) , [JS](https://www.freecodecamp.org/certification/fcc834d7277-a991-4083-bda5-6372b69a9f1e/javascript-algorithms-and-data-structures), *Certificates: Responsive Web Design & JavaScript Algorithms and Data Structures*, online
 - EdEx.org [Java](https://courses.edx.org/certificates/db55972a3dc0475baaccb11f82c02fa2), *Certificate in DEV277x: Object Oriented Programming in Java*, online 
+- Free Code Camp :*Certificates:*  
+    - *Responsive Web Design* [Web](https://www.freecodecamp.org/certification/fcc834d7277-a991-4083-bda5-6372b69a9f1e/responsive-web-design)  
+    - *JavaScript Algorithms and Data Structures* [JS](https://www.freecodecamp.org/certification/fcc834d7277-a991-4083-bda5-6372b69a9f1e/javascript-algorithms-and-data-structures) 
+- General Assembly [GA](https://github.com/BrianLoveGa/portfolio-improvements/blob/master/portfolio/public/GA%20CERT%20.png?raw=true),  *Certificate in Software Engineering Immersion*,  online
+
+
 
 -----------------------------------
 
@@ -99,7 +103,8 @@ Independent educational SPA intended to showcase the similarities and difference
     featuring snippets in: Java, JavaScript, and Python
     
 Project Link: [Capstone Repository](https://github.com/BrianLoveGa/talentPathCapstone)
-Deployed Site Link: [live site](https://brianlovega.github.io/talentPathCapstone/)
+
+__Deployed Site Link: [live site](https://brianlovega.github.io/talentPathCapstone/)__
 
 ![code compare rock paper scissors lizard spock](https://github.com/BrianLoveGa/JavaPortfolio/blob/main/public/images/CCrpsls.PNG?raw=true)
 
@@ -139,14 +144,18 @@ Video Overview: [Play-List Videos](https://www.youtube.com/playlist?list=PLkllGf
 #### Earth BNB 
 Full-stack application replicating rental listings pages of a popular bed and breakfast website.
 
-![EarthBNB](https://github.com/BrianLoveGa/JavaPortfolio/blob/main/public/images/tdd.JPG?raw=true)
+![EarthBNB](https://github.com/BrianLoveGa/JavaPortfolio/blob/main/public/images/earthBnBgallery.png?raw=true)
 
     Languages: AngularJS, Spring Boot/Java, MySQL
     Roles: Listing images, modal gallery, things to do nearby 
     
-Project Link: [Client Repo](https://github.com/BrianLoveGa/client-EarthBnB), [Server Repo](https://github.com/BrianLoveGa/server-EarthBnB)
+Project Link: [Client Repo](https://github.com/BrianLoveGa/client-EarthBnB)
+
+[Server Repo](https://github.com/BrianLoveGa/server-EarthBnB)
 
 Video Overview: [YouTube Vid](https://www.youtube.com/watch?v=nQksifO4T6M&t)
+
+![EarthBNB](https://github.com/BrianLoveGa/JavaPortfolio/blob/main/public/images/earthBnBTDD.png?raw=true)
 
 
 #### Learning Exercises with Java Projects 
