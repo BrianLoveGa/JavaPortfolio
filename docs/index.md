@@ -168,7 +168,7 @@ Projects and Links:
 * [Learner Lab ](https://github.com/BrianLoveGa/maven_learnerlab) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven_learnerlab)
 * [Exceptions phone number lab](https://github.com/BrianLoveGa/maven.exceptional-phone-number) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven.exceptional-phone-number)
 * [Java Core Number and Triangles ](https://github.com/BrianLoveGa/maven.numbers-triangles-tables) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven.numbers-triangles-tables)
-* [Java Fundamentals - numbers and strings](https://github.com/BrianLoveGa/maven.java-fundamentals) [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven.java-fundamentals)
+* [Java Fundamentals - numbers and strings](https://github.com/BrianLoveGa/maven.java-fundamentals) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven.java-fundamentals)
 
 
 -----------------------------------
