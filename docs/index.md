@@ -162,13 +162,13 @@ Video Overview: [YouTube Vid](https://www.youtube.com/watch?v=nQksifO4T6M&t)
 Java building exercises demonstrating knowledge base in Java testing and application production. 
 
 Projects and Links: 
-* [Mini Arcade Repository](https://github.com/BrianLoveGa/maven_simple-arcade) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven_simple-arcade)
-* [Streams and Lambdas Repository](https://github.com/BrianLoveGa/maven_streams-and-lambdas) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven_streams-and-lambdas)
-* [Bin and Die Repository](https://github.com/BrianLoveGa/Maven.diceandbin) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/Maven.diceandbin)
-* [Learner Lab Repository](https://github.com/BrianLoveGa/maven_learnerlab) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven_learnerlab)
-* [Exceptions Exercises Repository](https://github.com/BrianLoveGa/maven.exceptional-phone-number) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven.exceptional-phone-number)
-* [Java Core Foundations 2](https://github.com/BrianLoveGa/maven.numbers-triangles-tables) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven.numbers-triangles-tables)
-
+* [Casino and Arcade Games](https://github.com/BrianLoveGa/maven_simple-arcade) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven_simple-arcade)
+* [Streams and Lambdas](https://github.com/BrianLoveGa/maven_streams-and-lambdas) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven_streams-and-lambdas)
+* [Bin and Die - Dice Simulation](https://github.com/BrianLoveGa/Maven.diceandbin) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/Maven.diceandbin)
+* [Learner Lab ](https://github.com/BrianLoveGa/maven_learnerlab) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven_learnerlab)
+* [Exceptions phone number lab](https://github.com/BrianLoveGa/maven.exceptional-phone-number) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven.exceptional-phone-number)
+* [Java Core Number and Triangles ](https://github.com/BrianLoveGa/maven.numbers-triangles-tables) | [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven.numbers-triangles-tables)
+* [Java Fundamentals - numbers and strings](https://github.com/BrianLoveGa/maven.java-fundamentals) [Travis Build](https://travis-ci.com/github/BrianLoveGa/maven.java-fundamentals)
 
 
 -----------------------------------
